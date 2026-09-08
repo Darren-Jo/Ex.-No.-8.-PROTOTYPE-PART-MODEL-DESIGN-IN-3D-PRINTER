@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="1401" height="752" alt="AVJDVAJSVDHSDASG" src="https://github.com/user-attachments/assets/da96ff3e-aede-4d43-a6f6-76f19a2f3d07" />
 
-### Name:
-### Register Number:
+
+### Name: K DARREN JOSEPH
+### Register Number: 212225230039
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
